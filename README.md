@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://github.com/Rami-Youssef/Rami-Youssef/blob/main/FIX.gif" />
 
-Hey there! I'm Rami — a curious developer who enjoys jumping between stacks just to see what breaks (and then fixing it). I love building cool projects, learning new tools, and occasionally arguing with my code until it behaves. Whether it’s web, mobile, or something in between, I’m always experimenting and leveling up.
+Hey there! I'm Rami — a developer who enjoys jumping between stacks just to see what breaks (and then fixing it). I love building cool projects, tackling what seems hard, and occasionally arguing with my code until it finally behaves.
 
 
 ### 🚀 Tech Stack
