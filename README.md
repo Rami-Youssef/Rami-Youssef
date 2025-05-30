@@ -1,12 +1,16 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-<div style="text-align: right; margin-bottom: 40px;">
-  <img height="150" src="https://github.com/Rami-Youssef/Rami-Youssef/blob/main/FIX.gif" />
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
+  <div style="flex: 1; max-width: 65%;">
+    Hey there! I'm Rami — a Moroccan developer who enjoys jumping between stacks just to see what breaks (and then fixing it). I love building cool projects, tackling what seems hard, and occasionally arguing with my code until it finally behaves.
+  </div>
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img height="150" src="https://github.com/Rami-Youssef/Rami-Youssef/blob/main/FIX.gif" />
+  </div>
 </div>
 
-Hey there! I'm Rami — a Moroccan developer who enjoys jumping between stacks just to see what breaks (and then fixing it). I love building cool projects, tackling what seems hard, and occasionally arguing with my code until it finally behaves.
-
 ---
+
 
 
 
