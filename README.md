@@ -27,6 +27,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+
+###
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rami-Youssef&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+
+<td width="50%" align="center">
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama268&theme=dark&hide_border=true" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rami-Youssef&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</td>
+</tr>
+</table>
+
 ###
 
 <div align="left">
