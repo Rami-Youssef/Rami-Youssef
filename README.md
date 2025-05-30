@@ -6,6 +6,9 @@
 
 Hey there! I'm Rami — a Moroccan developer who enjoys jumping between stacks just to see what breaks (and then fixing it). I love building cool projects, tackling what seems hard, and occasionally arguing with my code until it finally behaves.
 
+---
+
+
 
 ### 🛠️ Tech Stack
 
